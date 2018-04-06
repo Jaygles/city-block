@@ -96,7 +96,7 @@ body {
 }
 #cube .bottom {
   background-color: pink;
-  transform: rotateX(-90deg) translateZ(-175.5px);
+  transform: rotateX(-90deg) translateZ(-174.5px);
   display: grid;
   grid-template-columns: repeat(11, 1fr);
   grid-template-rows: repeat(11, 1fr);
