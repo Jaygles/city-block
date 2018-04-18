@@ -14,4 +14,8 @@ The Western Auto building, located at 2107 Grand Blvd was built in 1914 for the 
 
 It's A Beautiful Day is an iconic store located at 3918 Broadway Blvd. It supplies the area with all things peaceful.
 
+Hosted here https://jaygles.github.io/city-block/
+
+and on my website https://www.thejaysully.com/
+
 &copy; Jacob Sullivan 2018
