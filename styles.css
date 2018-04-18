@@ -889,7 +889,7 @@ body {
   0% {
     transform: rotateZ(180deg) rotateY(180deg);
   }
-  70% {
+  70.9% {
     transform: rotateZ(180deg) rotateY(180deg);
   }
   71% {
@@ -1484,7 +1484,7 @@ body {
   25% {
     transform: rotateY(90deg) translateZ(-10px) translateY(65px);
   }
-  40% {
+  40.9% {
     transform: rotateY(90deg) translateZ(-10px) translateY(65px);
   }
   41% {
