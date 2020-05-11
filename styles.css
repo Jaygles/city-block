@@ -112,7 +112,7 @@ body {
   }
 }
 #cube {
-  transform: rotate3d(1, 0, 0, 0.5turn);
+  transform: rotateY(-360deg) rotate3d(1, 0, 0, 0.5turn);
   transition: transform 1s;
   animation: cube-anim 15s;
   animation-iteration-count: infinite;
@@ -904,7 +904,7 @@ body {
 }
 
 .stop-a-sign-text {
-  height: 6.72px;
+  height: 8px;
   width: 100%;
   display: inline-block;
   background: #b01c2e;
@@ -1389,7 +1389,7 @@ body {
   }
 }
 .stop-b-sign-text {
-  height: 6.72px;
+  height: 8px;
   width: 100%;
   display: inline-block;
   background: #b01c2e;

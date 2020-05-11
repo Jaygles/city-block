@@ -16,6 +16,4 @@ It's A Beautiful Day is an iconic store located at 3918 Broadway Blvd. It suppli
 
 Hosted here https://jaygles.github.io/city-block/
 
-and on my website https://www.thejaysully.com/
-
-&copy; Jacob Sullivan 2018
+&copy; Jacob Sullivan 2020
